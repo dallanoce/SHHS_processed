@@ -1,0 +1,1021 @@
+,Stage,Description
+0,3,Stage 3 sleep
+1,3,Stage 3 sleep
+2,3,Stage 3 sleep
+3,2,Stage 2 sleep
+4,2,Stage 2 sleep
+5,3,Stage 3 sleep
+6,2,Stage 2 sleep
+7,3,Stage 3 sleep
+8,2,Stage 2 sleep
+9,3,Stage 3 sleep
+10,2,Stage 2 sleep
+11,3,Stage 3 sleep
+12,2,Stage 2 sleep
+13,3,Stage 3 sleep
+14,2,Stage 2 sleep
+15,3,Stage 3 sleep
+16,3,Stage 3 sleep
+17,2,Stage 2 sleep
+18,2,Stage 2 sleep
+19,3,Stage 3 sleep
+20,3,Stage 3 sleep
+21,2,Stage 2 sleep
+22,3,Stage 3 sleep
+23,3,Stage 3 sleep
+24,3,Stage 3 sleep
+25,2,Stage 2 sleep
+26,2,Stage 2 sleep
+27,2,Stage 2 sleep
+28,3,Stage 3 sleep
+29,3,Stage 3 sleep
+30,3,Stage 3 sleep
+31,3,Stage 3 sleep
+32,2,Stage 2 sleep
+33,3,Stage 3 sleep
+34,3,Stage 3 sleep
+35,3,Stage 3 sleep
+36,3,Stage 3 sleep
+37,3,Stage 3 sleep
+38,3,Stage 3 sleep
+39,2,Stage 2 sleep
+40,2,Stage 2 sleep
+41,3,Stage 3 sleep
+42,3,Stage 3 sleep
+43,3,Stage 3 sleep
+44,2,Stage 2 sleep
+45,3,Stage 3 sleep
+46,3,Stage 3 sleep
+47,2,Stage 2 sleep
+48,3,Stage 3 sleep
+49,2,Stage 2 sleep
+50,2,Stage 2 sleep
+51,3,Stage 3 sleep
+52,2,Stage 2 sleep
+53,3,Stage 3 sleep
+54,2,Stage 2 sleep
+55,3,Stage 3 sleep
+56,2,Stage 2 sleep
+57,2,Stage 2 sleep
+58,2,Stage 2 sleep
+59,2,Stage 2 sleep
+60,2,Stage 2 sleep
+61,2,Stage 2 sleep
+62,2,Stage 2 sleep
+63,2,Stage 2 sleep
+64,2,Stage 2 sleep
+65,2,Stage 2 sleep
+66,2,Stage 2 sleep
+67,2,Stage 2 sleep
+68,2,Stage 2 sleep
+69,2,Stage 2 sleep
+70,2,Stage 2 sleep
+71,2,Stage 2 sleep
+72,2,Stage 2 sleep
+73,2,Stage 2 sleep
+74,2,Stage 2 sleep
+75,2,Stage 2 sleep
+76,2,Stage 2 sleep
+77,2,Stage 2 sleep
+78,2,Stage 2 sleep
+79,2,Stage 2 sleep
+80,2,Stage 2 sleep
+81,2,Stage 2 sleep
+82,2,Stage 2 sleep
+83,2,Stage 2 sleep
+84,2,Stage 2 sleep
+85,1,Wake
+86,2,Stage 2 sleep
+87,2,Stage 2 sleep
+88,2,Stage 2 sleep
+89,2,Stage 2 sleep
+90,2,Stage 2 sleep
+91,2,Stage 2 sleep
+92,2,Stage 2 sleep
+93,2,Stage 2 sleep
+94,2,Stage 2 sleep
+95,2,Stage 2 sleep
+96,2,Stage 2 sleep
+97,2,Stage 2 sleep
+98,2,Stage 2 sleep
+99,2,Stage 2 sleep
+100,2,Stage 2 sleep
+101,2,Stage 2 sleep
+102,2,Stage 2 sleep
+103,2,Stage 2 sleep
+104,2,Stage 2 sleep
+105,2,Stage 2 sleep
+106,2,Stage 2 sleep
+107,2,Stage 2 sleep
+108,2,Stage 2 sleep
+109,2,Stage 2 sleep
+110,2,Stage 2 sleep
+111,1,Wake
+112,1,Wake
+113,2,Stage 1 sleep
+114,2,Stage 1 sleep
+115,2,Stage 2 sleep
+116,2,Stage 2 sleep
+117,2,Stage 2 sleep
+118,2,Stage 2 sleep
+119,2,Stage 2 sleep
+120,2,Stage 2 sleep
+121,2,Stage 2 sleep
+122,2,Stage 2 sleep
+123,2,Stage 2 sleep
+124,2,Stage 2 sleep
+125,2,Stage 2 sleep
+126,2,Stage 2 sleep
+127,2,Stage 2 sleep
+128,2,Stage 2 sleep
+129,2,Stage 2 sleep
+130,2,Stage 2 sleep
+131,2,Stage 2 sleep
+132,2,Stage 2 sleep
+133,2,Stage 2 sleep
+134,2,Stage 2 sleep
+135,2,Stage 2 sleep
+136,2,Stage 2 sleep
+137,2,Stage 2 sleep
+138,2,Stage 2 sleep
+139,2,Stage 2 sleep
+140,2,Stage 2 sleep
+141,1,Wake
+142,2,Stage 1 sleep
+143,2,Stage 2 sleep
+144,2,Stage 2 sleep
+145,1,Wake
+146,2,Stage 2 sleep
+147,2,Stage 2 sleep
+148,2,Stage 2 sleep
+149,2,Stage 2 sleep
+150,2,Stage 2 sleep
+151,2,Stage 2 sleep
+152,1,Wake
+153,1,Wake
+154,1,Wake
+155,1,Wake
+156,1,Wake
+157,1,Wake
+158,1,Wake
+159,1,Wake
+160,1,Wake
+161,1,Wake
+162,1,Wake
+163,1,Wake
+164,1,Wake
+165,1,Wake
+166,2,Stage 2 sleep
+167,2,Stage 2 sleep
+168,2,Stage 2 sleep
+169,2,Stage 2 sleep
+170,2,Stage 2 sleep
+171,2,Stage 2 sleep
+172,2,Stage 2 sleep
+173,4,REM sleep
+174,4,REM sleep
+175,4,REM sleep
+176,4,REM sleep
+177,4,REM sleep
+178,4,REM sleep
+179,4,REM sleep
+180,4,REM sleep
+181,4,REM sleep
+182,4,REM sleep
+183,4,REM sleep
+184,4,REM sleep
+185,4,REM sleep
+186,4,REM sleep
+187,4,REM sleep
+188,4,REM sleep
+189,4,REM sleep
+190,4,REM sleep
+191,4,REM sleep
+192,4,REM sleep
+193,4,REM sleep
+194,4,REM sleep
+195,4,REM sleep
+196,4,REM sleep
+197,4,REM sleep
+198,4,REM sleep
+199,4,REM sleep
+200,4,REM sleep
+201,4,REM sleep
+202,4,REM sleep
+203,4,REM sleep
+204,4,REM sleep
+205,4,REM sleep
+206,4,REM sleep
+207,4,REM sleep
+208,4,REM sleep
+209,4,REM sleep
+210,4,REM sleep
+211,4,REM sleep
+212,4,REM sleep
+213,4,REM sleep
+214,4,REM sleep
+215,4,REM sleep
+216,4,REM sleep
+217,4,REM sleep
+218,4,REM sleep
+219,4,REM sleep
+220,4,REM sleep
+221,4,REM sleep
+222,4,REM sleep
+223,4,REM sleep
+224,4,REM sleep
+225,4,REM sleep
+226,4,REM sleep
+227,4,REM sleep
+228,4,REM sleep
+229,4,REM sleep
+230,4,REM sleep
+231,4,REM sleep
+232,4,REM sleep
+233,4,REM sleep
+234,4,REM sleep
+235,4,REM sleep
+236,4,REM sleep
+237,4,REM sleep
+238,4,REM sleep
+239,4,REM sleep
+240,4,REM sleep
+241,4,REM sleep
+242,4,REM sleep
+243,4,REM sleep
+244,4,REM sleep
+245,4,REM sleep
+246,4,REM sleep
+247,4,REM sleep
+248,4,REM sleep
+249,4,REM sleep
+250,4,REM sleep
+251,4,REM sleep
+252,4,REM sleep
+253,4,REM sleep
+254,2,Stage 2 sleep
+255,2,Stage 2 sleep
+256,2,Stage 2 sleep
+257,2,Stage 2 sleep
+258,2,Stage 2 sleep
+259,2,Stage 2 sleep
+260,2,Stage 2 sleep
+261,2,Stage 2 sleep
+262,2,Stage 2 sleep
+263,2,Stage 2 sleep
+264,2,Stage 2 sleep
+265,2,Stage 2 sleep
+266,2,Stage 2 sleep
+267,2,Stage 2 sleep
+268,2,Stage 2 sleep
+269,2,Stage 2 sleep
+270,2,Stage 2 sleep
+271,2,Stage 2 sleep
+272,2,Stage 2 sleep
+273,2,Stage 2 sleep
+274,2,Stage 2 sleep
+275,2,Stage 2 sleep
+276,2,Stage 2 sleep
+277,2,Stage 2 sleep
+278,2,Stage 2 sleep
+279,2,Stage 2 sleep
+280,2,Stage 2 sleep
+281,2,Stage 2 sleep
+282,2,Stage 2 sleep
+283,2,Stage 2 sleep
+284,2,Stage 2 sleep
+285,2,Stage 2 sleep
+286,2,Stage 2 sleep
+287,2,Stage 2 sleep
+288,2,Stage 2 sleep
+289,2,Stage 2 sleep
+290,2,Stage 2 sleep
+291,2,Stage 2 sleep
+292,2,Stage 2 sleep
+293,2,Stage 2 sleep
+294,2,Stage 2 sleep
+295,2,Stage 2 sleep
+296,2,Stage 2 sleep
+297,2,Stage 2 sleep
+298,2,Stage 2 sleep
+299,2,Stage 2 sleep
+300,2,Stage 2 sleep
+301,2,Stage 2 sleep
+302,2,Stage 2 sleep
+303,2,Stage 2 sleep
+304,3,Stage 3 sleep
+305,2,Stage 2 sleep
+306,2,Stage 2 sleep
+307,2,Stage 2 sleep
+308,3,Stage 3 sleep
+309,2,Stage 2 sleep
+310,2,Stage 2 sleep
+311,2,Stage 2 sleep
+312,2,Stage 2 sleep
+313,2,Stage 2 sleep
+314,2,Stage 2 sleep
+315,2,Stage 2 sleep
+316,2,Stage 2 sleep
+317,3,Stage 3 sleep
+318,3,Stage 3 sleep
+319,2,Stage 2 sleep
+320,2,Stage 2 sleep
+321,2,Stage 2 sleep
+322,3,Stage 3 sleep
+323,2,Stage 2 sleep
+324,2,Stage 2 sleep
+325,2,Stage 2 sleep
+326,3,Stage 3 sleep
+327,2,Stage 2 sleep
+328,3,Stage 3 sleep
+329,2,Stage 2 sleep
+330,3,Stage 3 sleep
+331,2,Stage 2 sleep
+332,2,Stage 2 sleep
+333,3,Stage 3 sleep
+334,2,Stage 2 sleep
+335,2,Stage 2 sleep
+336,3,Stage 3 sleep
+337,3,Stage 3 sleep
+338,2,Stage 2 sleep
+339,3,Stage 3 sleep
+340,2,Stage 2 sleep
+341,3,Stage 3 sleep
+342,2,Stage 2 sleep
+343,2,Stage 2 sleep
+344,3,Stage 3 sleep
+345,1,Wake
+346,1,Wake
+347,1,Wake
+348,2,Stage 2 sleep
+349,2,Stage 2 sleep
+350,1,Wake
+351,2,Stage 1 sleep
+352,2,Stage 2 sleep
+353,2,Stage 2 sleep
+354,2,Stage 2 sleep
+355,2,Stage 2 sleep
+356,2,Stage 2 sleep
+357,1,Wake
+358,1,Wake
+359,1,Wake
+360,2,Stage 1 sleep
+361,1,Wake
+362,1,Wake
+363,1,Wake
+364,1,Wake
+365,1,Wake
+366,1,Wake
+367,2,Stage 1 sleep
+368,2,Stage 2 sleep
+369,2,Stage 2 sleep
+370,2,Stage 2 sleep
+371,2,Stage 2 sleep
+372,2,Stage 2 sleep
+373,2,Stage 2 sleep
+374,2,Stage 2 sleep
+375,2,Stage 2 sleep
+376,2,Stage 2 sleep
+377,2,Stage 2 sleep
+378,2,Stage 2 sleep
+379,2,Stage 2 sleep
+380,2,Stage 2 sleep
+381,2,Stage 2 sleep
+382,2,Stage 2 sleep
+383,2,Stage 2 sleep
+384,2,Stage 2 sleep
+385,2,Stage 2 sleep
+386,2,Stage 2 sleep
+387,2,Stage 2 sleep
+388,2,Stage 2 sleep
+389,2,Stage 2 sleep
+390,2,Stage 2 sleep
+391,2,Stage 2 sleep
+392,2,Stage 2 sleep
+393,2,Stage 2 sleep
+394,2,Stage 2 sleep
+395,2,Stage 2 sleep
+396,2,Stage 2 sleep
+397,2,Stage 2 sleep
+398,2,Stage 2 sleep
+399,2,Stage 2 sleep
+400,1,Wake
+401,1,Wake
+402,1,Wake
+403,2,Stage 1 sleep
+404,2,Stage 1 sleep
+405,2,Stage 1 sleep
+406,2,Stage 2 sleep
+407,2,Stage 2 sleep
+408,2,Stage 2 sleep
+409,2,Stage 2 sleep
+410,2,Stage 2 sleep
+411,2,Stage 2 sleep
+412,2,Stage 2 sleep
+413,2,Stage 2 sleep
+414,2,Stage 2 sleep
+415,2,Stage 2 sleep
+416,2,Stage 2 sleep
+417,2,Stage 2 sleep
+418,2,Stage 2 sleep
+419,2,Stage 2 sleep
+420,2,Stage 2 sleep
+421,2,Stage 2 sleep
+422,2,Stage 2 sleep
+423,2,Stage 2 sleep
+424,2,Stage 2 sleep
+425,2,Stage 2 sleep
+426,2,Stage 2 sleep
+427,2,Stage 2 sleep
+428,2,Stage 2 sleep
+429,2,Stage 2 sleep
+430,2,Stage 2 sleep
+431,2,Stage 2 sleep
+432,2,Stage 2 sleep
+433,2,Stage 2 sleep
+434,2,Stage 2 sleep
+435,2,Stage 2 sleep
+436,2,Stage 2 sleep
+437,2,Stage 2 sleep
+438,2,Stage 2 sleep
+439,2,Stage 2 sleep
+440,2,Stage 2 sleep
+441,2,Stage 2 sleep
+442,2,Stage 2 sleep
+443,2,Stage 2 sleep
+444,2,Stage 2 sleep
+445,2,Stage 2 sleep
+446,2,Stage 2 sleep
+447,2,Stage 2 sleep
+448,2,Stage 2 sleep
+449,2,Stage 2 sleep
+450,2,Stage 2 sleep
+451,2,Stage 2 sleep
+452,2,Stage 2 sleep
+453,2,Stage 2 sleep
+454,2,Stage 2 sleep
+455,2,Stage 2 sleep
+456,2,Stage 2 sleep
+457,2,Stage 2 sleep
+458,2,Stage 2 sleep
+459,3,Stage 3 sleep
+460,2,Stage 2 sleep
+461,2,Stage 2 sleep
+462,2,Stage 2 sleep
+463,2,Stage 2 sleep
+464,2,Stage 2 sleep
+465,2,Stage 2 sleep
+466,2,Stage 2 sleep
+467,2,Stage 2 sleep
+468,2,Stage 2 sleep
+469,4,REM sleep
+470,4,REM sleep
+471,4,REM sleep
+472,4,REM sleep
+473,1,Wake
+474,4,REM sleep
+475,4,REM sleep
+476,4,REM sleep
+477,4,REM sleep
+478,4,REM sleep
+479,4,REM sleep
+480,4,REM sleep
+481,4,REM sleep
+482,4,REM sleep
+483,4,REM sleep
+484,4,REM sleep
+485,4,REM sleep
+486,4,REM sleep
+487,4,REM sleep
+488,4,REM sleep
+489,4,REM sleep
+490,4,REM sleep
+491,4,REM sleep
+492,4,REM sleep
+493,4,REM sleep
+494,4,REM sleep
+495,4,REM sleep
+496,2,Stage 2 sleep
+497,2,Stage 2 sleep
+498,2,Stage 2 sleep
+499,2,Stage 2 sleep
+500,2,Stage 2 sleep
+501,2,Stage 2 sleep
+502,2,Stage 2 sleep
+503,2,Stage 2 sleep
+504,2,Stage 2 sleep
+505,2,Stage 2 sleep
+506,2,Stage 2 sleep
+507,2,Stage 2 sleep
+508,2,Stage 2 sleep
+509,4,REM sleep
+510,4,REM sleep
+511,4,REM sleep
+512,4,REM sleep
+513,4,REM sleep
+514,4,REM sleep
+515,4,REM sleep
+516,4,REM sleep
+517,2,Stage 2 sleep
+518,2,Stage 2 sleep
+519,2,Stage 2 sleep
+520,2,Stage 2 sleep
+521,2,Stage 2 sleep
+522,2,Stage 2 sleep
+523,2,Stage 2 sleep
+524,2,Stage 2 sleep
+525,2,Stage 2 sleep
+526,2,Stage 2 sleep
+527,2,Stage 2 sleep
+528,2,Stage 2 sleep
+529,2,Stage 2 sleep
+530,1,Wake
+531,1,Wake
+532,1,Wake
+533,2,Stage 2 sleep
+534,2,Stage 2 sleep
+535,2,Stage 2 sleep
+536,2,Stage 2 sleep
+537,2,Stage 2 sleep
+538,2,Stage 2 sleep
+539,2,Stage 2 sleep
+540,2,Stage 2 sleep
+541,2,Stage 2 sleep
+542,2,Stage 2 sleep
+543,2,Stage 2 sleep
+544,2,Stage 2 sleep
+545,2,Stage 2 sleep
+546,2,Stage 2 sleep
+547,2,Stage 2 sleep
+548,2,Stage 2 sleep
+549,2,Stage 2 sleep
+550,2,Stage 2 sleep
+551,2,Stage 2 sleep
+552,2,Stage 2 sleep
+553,2,Stage 2 sleep
+554,2,Stage 2 sleep
+555,2,Stage 2 sleep
+556,2,Stage 2 sleep
+557,2,Stage 2 sleep
+558,2,Stage 2 sleep
+559,2,Stage 2 sleep
+560,2,Stage 2 sleep
+561,2,Stage 2 sleep
+562,2,Stage 2 sleep
+563,2,Stage 2 sleep
+564,2,Stage 2 sleep
+565,2,Stage 2 sleep
+566,2,Stage 2 sleep
+567,2,Stage 2 sleep
+568,1,Wake
+569,1,Wake
+570,1,Wake
+571,2,Stage 2 sleep
+572,2,Stage 2 sleep
+573,2,Stage 2 sleep
+574,2,Stage 2 sleep
+575,2,Stage 2 sleep
+576,2,Stage 2 sleep
+577,2,Stage 2 sleep
+578,2,Stage 2 sleep
+579,2,Stage 2 sleep
+580,2,Stage 2 sleep
+581,2,Stage 2 sleep
+582,2,Stage 2 sleep
+583,2,Stage 2 sleep
+584,2,Stage 2 sleep
+585,2,Stage 2 sleep
+586,2,Stage 2 sleep
+587,2,Stage 2 sleep
+588,2,Stage 2 sleep
+589,2,Stage 2 sleep
+590,2,Stage 2 sleep
+591,2,Stage 2 sleep
+592,2,Stage 2 sleep
+593,2,Stage 2 sleep
+594,2,Stage 2 sleep
+595,2,Stage 2 sleep
+596,2,Stage 2 sleep
+597,2,Stage 2 sleep
+598,2,Stage 2 sleep
+599,2,Stage 2 sleep
+600,2,Stage 2 sleep
+601,2,Stage 2 sleep
+602,2,Stage 2 sleep
+603,2,Stage 2 sleep
+604,2,Stage 2 sleep
+605,2,Stage 2 sleep
+606,2,Stage 2 sleep
+607,2,Stage 2 sleep
+608,2,Stage 2 sleep
+609,2,Stage 2 sleep
+610,2,Stage 2 sleep
+611,2,Stage 2 sleep
+612,2,Stage 2 sleep
+613,2,Stage 2 sleep
+614,2,Stage 2 sleep
+615,2,Stage 2 sleep
+616,2,Stage 2 sleep
+617,2,Stage 2 sleep
+618,2,Stage 2 sleep
+619,2,Stage 2 sleep
+620,2,Stage 2 sleep
+621,2,Stage 2 sleep
+622,2,Stage 2 sleep
+623,1,Wake
+624,2,Stage 1 sleep
+625,2,Stage 1 sleep
+626,2,Stage 2 sleep
+627,2,Stage 2 sleep
+628,2,Stage 2 sleep
+629,2,Stage 2 sleep
+630,2,Stage 2 sleep
+631,2,Stage 2 sleep
+632,2,Stage 2 sleep
+633,2,Stage 2 sleep
+634,2,Stage 2 sleep
+635,2,Stage 2 sleep
+636,2,Stage 2 sleep
+637,2,Stage 2 sleep
+638,1,Wake
+639,4,REM sleep
+640,4,REM sleep
+641,4,REM sleep
+642,4,REM sleep
+643,4,REM sleep
+644,4,REM sleep
+645,4,REM sleep
+646,4,REM sleep
+647,1,Wake
+648,4,REM sleep
+649,4,REM sleep
+650,4,REM sleep
+651,4,REM sleep
+652,4,REM sleep
+653,4,REM sleep
+654,4,REM sleep
+655,4,REM sleep
+656,1,Wake
+657,4,REM sleep
+658,4,REM sleep
+659,4,REM sleep
+660,4,REM sleep
+661,4,REM sleep
+662,4,REM sleep
+663,4,REM sleep
+664,4,REM sleep
+665,4,REM sleep
+666,4,REM sleep
+667,4,REM sleep
+668,4,REM sleep
+669,4,REM sleep
+670,4,REM sleep
+671,2,Stage 2 sleep
+672,4,REM sleep
+673,4,REM sleep
+674,4,REM sleep
+675,4,REM sleep
+676,4,REM sleep
+677,4,REM sleep
+678,4,REM sleep
+679,4,REM sleep
+680,4,REM sleep
+681,4,REM sleep
+682,4,REM sleep
+683,4,REM sleep
+684,4,REM sleep
+685,4,REM sleep
+686,4,REM sleep
+687,4,REM sleep
+688,4,REM sleep
+689,4,REM sleep
+690,4,REM sleep
+691,4,REM sleep
+692,4,REM sleep
+693,4,REM sleep
+694,4,REM sleep
+695,4,REM sleep
+696,4,REM sleep
+697,4,REM sleep
+698,4,REM sleep
+699,4,REM sleep
+700,4,REM sleep
+701,4,REM sleep
+702,4,REM sleep
+703,4,REM sleep
+704,4,REM sleep
+705,4,REM sleep
+706,1,Wake
+707,2,Stage 1 sleep
+708,2,Stage 1 sleep
+709,1,Wake
+710,2,Stage 1 sleep
+711,2,Stage 1 sleep
+712,2,Stage 1 sleep
+713,2,Stage 1 sleep
+714,2,Stage 2 sleep
+715,2,Stage 2 sleep
+716,2,Stage 2 sleep
+717,2,Stage 2 sleep
+718,2,Stage 2 sleep
+719,2,Stage 2 sleep
+720,2,Stage 2 sleep
+721,2,Stage 2 sleep
+722,1,Wake
+723,1,Wake
+724,1,Wake
+725,1,Wake
+726,2,Stage 1 sleep
+727,1,Wake
+728,1,Wake
+729,1,Wake
+730,1,Wake
+731,1,Wake
+732,1,Wake
+733,1,Wake
+734,1,Wake
+735,1,Wake
+736,1,Wake
+737,1,Wake
+738,1,Wake
+739,1,Wake
+740,1,Wake
+741,1,Wake
+742,1,Wake
+743,1,Wake
+744,1,Wake
+745,2,Stage 1 sleep
+746,1,Wake
+747,1,Wake
+748,1,Wake
+749,1,Wake
+750,1,Wake
+751,2,Stage 1 sleep
+752,2,Stage 1 sleep
+753,1,Wake
+754,1,Wake
+755,2,Stage 1 sleep
+756,1,Wake
+757,2,Stage 1 sleep
+758,1,Wake
+759,1,Wake
+760,1,Wake
+761,1,Wake
+762,1,Wake
+763,1,Wake
+764,1,Wake
+765,1,Wake
+766,1,Wake
+767,1,Wake
+768,1,Wake
+769,1,Wake
+770,1,Wake
+771,1,Wake
+772,1,Wake
+773,1,Wake
+774,1,Wake
+775,1,Wake
+776,1,Wake
+777,1,Wake
+778,1,Wake
+779,1,Wake
+780,1,Wake
+781,1,Wake
+782,1,Wake
+783,1,Wake
+784,1,Wake
+785,1,Wake
+786,1,Wake
+787,1,Wake
+788,1,Wake
+789,1,Wake
+790,1,Wake
+791,1,Wake
+792,1,Wake
+793,1,Wake
+794,1,Wake
+795,1,Wake
+796,1,Wake
+797,1,Wake
+798,1,Wake
+799,1,Wake
+800,1,Wake
+801,1,Wake
+802,1,Wake
+803,1,Wake
+804,1,Wake
+805,1,Wake
+806,1,Wake
+807,1,Wake
+808,1,Wake
+809,1,Wake
+810,1,Wake
+811,1,Wake
+812,1,Wake
+813,1,Wake
+814,1,Wake
+815,1,Wake
+816,1,Wake
+817,1,Wake
+818,1,Wake
+819,1,Wake
+820,1,Wake
+821,1,Wake
+822,1,Wake
+823,1,Wake
+824,1,Wake
+825,1,Wake
+826,1,Wake
+827,1,Wake
+828,1,Wake
+829,1,Wake
+830,1,Wake
+831,1,Wake
+832,1,Wake
+833,2,Stage 1 sleep
+834,1,Wake
+835,1,Wake
+836,1,Wake
+837,1,Wake
+838,1,Wake
+839,1,Wake
+840,1,Wake
+841,1,Wake
+842,1,Wake
+843,1,Wake
+844,1,Wake
+845,1,Wake
+846,1,Wake
+847,1,Wake
+848,1,Wake
+849,1,Wake
+850,1,Wake
+851,1,Wake
+852,1,Wake
+853,1,Wake
+854,1,Wake
+855,1,Wake
+856,1,Wake
+857,1,Wake
+858,1,Wake
+859,1,Wake
+860,1,Wake
+861,1,Wake
+862,1,Wake
+863,1,Wake
+864,1,Wake
+865,1,Wake
+866,1,Wake
+867,1,Wake
+868,1,Wake
+869,1,Wake
+870,1,Wake
+871,1,Wake
+872,1,Wake
+873,1,Wake
+874,1,Wake
+875,1,Wake
+876,1,Wake
+877,1,Wake
+878,1,Wake
+879,1,Wake
+880,1,Wake
+881,1,Wake
+882,1,Wake
+883,1,Wake
+884,1,Wake
+885,1,Wake
+886,1,Wake
+887,1,Wake
+888,1,Wake
+889,1,Wake
+890,1,Wake
+891,1,Wake
+892,1,Wake
+893,1,Wake
+894,1,Wake
+895,1,Wake
+896,1,Wake
+897,1,Wake
+898,1,Wake
+899,1,Wake
+900,1,Wake
+901,1,Wake
+902,1,Wake
+903,1,Wake
+904,1,Wake
+905,1,Wake
+906,1,Wake
+907,1,Wake
+908,1,Wake
+909,1,Wake
+910,1,Wake
+911,1,Wake
+912,1,Wake
+913,1,Wake
+914,1,Wake
+915,1,Wake
+916,1,Wake
+917,1,Wake
+918,1,Wake
+919,1,Wake
+920,1,Wake
+921,1,Wake
+922,1,Wake
+923,1,Wake
+924,1,Wake
+925,1,Wake
+926,1,Wake
+927,1,Wake
+928,1,Wake
+929,1,Wake
+930,1,Wake
+931,1,Wake
+932,1,Wake
+933,1,Wake
+934,1,Wake
+935,1,Wake
+936,1,Wake
+937,1,Wake
+938,1,Wake
+939,1,Wake
+940,1,Wake
+941,1,Wake
+942,1,Wake
+943,1,Wake
+944,1,Wake
+945,1,Wake
+946,1,Wake
+947,1,Wake
+948,1,Wake
+949,1,Wake
+950,1,Wake
+951,1,Wake
+952,1,Wake
+953,1,Wake
+954,1,Wake
+955,1,Wake
+956,1,Wake
+957,1,Wake
+958,1,Wake
+959,1,Wake
+960,1,Wake
+961,1,Wake
+962,1,Wake
+963,1,Wake
+964,1,Wake
+965,1,Wake
+966,1,Wake
+967,1,Wake
+968,1,Wake
+969,1,Wake
+970,1,Wake
+971,1,Wake
+972,1,Wake
+973,1,Wake
+974,1,Wake
+975,1,Wake
+976,1,Wake
+977,1,Wake
+978,1,Wake
+979,1,Wake
+980,1,Wake
+981,1,Wake
+982,1,Wake
+983,1,Wake
+984,1,Wake
+985,1,Wake
+986,1,Wake
+987,1,Wake
+988,1,Wake
+989,1,Wake
+990,1,Wake
+991,1,Wake
+992,1,Wake
+993,1,Wake
+994,1,Wake
+995,1,Wake
+996,1,Wake
+997,1,Wake
+998,1,Wake
+999,1,Wake
+1000,1,Wake
+1001,1,Wake
+1002,1,Wake
+1003,1,Wake
+1004,1,Wake
+1005,1,Wake
+1006,1,Wake
+1007,1,Wake
+1008,1,Wake
+1009,1,Wake
+1010,1,Wake
+1011,1,Wake
+1012,1,Wake
+1013,1,Wake
+1014,1,Wake
+1015,1,Wake
+1016,1,Wake
+1017,1,Wake
+1018,1,Wake
+1019,1,Wake
