@@ -714,8 +714,8 @@
 712,4,REM sleep
 713,1,Wake
 714,2,Stage 2 sleep
-715,,Movement
-716,,Movement
+715,0,Movement
+716,0,Movement
 717,4,REM sleep
 718,4,REM sleep
 719,4,REM sleep

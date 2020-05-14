@@ -469,8 +469,8 @@
 467,4,REM sleep
 468,4,REM sleep
 469,1,Wake
-470,,Unscored
-471,,Unscored
+470,0,Unscored
+471,0,Unscored
 472,2,Stage 1 sleep
 473,2,Stage 1 sleep
 474,2,Stage 2 sleep

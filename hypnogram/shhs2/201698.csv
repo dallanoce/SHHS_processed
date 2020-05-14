@@ -933,7 +933,7 @@
 931,4,REM sleep
 932,1,Wake
 933,4,REM sleep
-934,,Unscored
+934,0,Unscored
 935,4,REM sleep
 936,4,REM sleep
 937,4,REM sleep

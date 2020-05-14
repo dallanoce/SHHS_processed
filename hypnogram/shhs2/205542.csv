@@ -415,7 +415,7 @@
 413,4,REM sleep
 414,1,Wake
 415,4,REM sleep
-416,,Unscored
+416,0,Unscored
 417,4,REM sleep
 418,4,REM sleep
 419,4,REM sleep

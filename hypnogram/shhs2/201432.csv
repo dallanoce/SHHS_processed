@@ -757,7 +757,7 @@
 755,4,REM sleep
 756,4,REM sleep
 757,4,REM sleep
-758,,Unscored
+758,0,Unscored
 759,2,Stage 2 sleep
 760,2,Stage 2 sleep
 761,2,Stage 2 sleep

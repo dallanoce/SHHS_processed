@@ -1144,7 +1144,7 @@
 1142,4,REM sleep
 1143,4,REM sleep
 1144,1,Wake
-1145,,Unscored
+1145,0,Unscored
 1146,2,Stage 1 sleep
 1147,1,Wake
 1148,2,Stage 1 sleep

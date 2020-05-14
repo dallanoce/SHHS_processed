@@ -262,7 +262,7 @@
 260,2,Stage 2 sleep
 261,3,Stage 3 sleep
 262,2,Stage 2 sleep
-263,,Unscored
+263,0,Unscored
 264,2,Stage 2 sleep
 265,2,Stage 2 sleep
 266,2,Stage 2 sleep
@@ -506,7 +506,7 @@
 504,2,Stage 2 sleep
 505,3,Stage 3 sleep
 506,2,Stage 2 sleep
-507,,Unscored
+507,0,Unscored
 508,2,Stage 2 sleep
 509,3,Stage 3 sleep
 510,2,Stage 2 sleep

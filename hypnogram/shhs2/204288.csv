@@ -400,7 +400,7 @@
 398,2,Stage 2 sleep
 399,1,Wake
 400,2,Stage 2 sleep
-401,,Unscored
+401,0,Unscored
 402,2,Stage 2 sleep
 403,3,Stage 3 sleep
 404,2,Stage 2 sleep

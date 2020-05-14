@@ -246,7 +246,7 @@
 244,4,REM sleep
 245,4,REM sleep
 246,4,REM sleep
-247,,Unscored
+247,0,Unscored
 248,4,REM sleep
 249,1,Wake
 250,2,Stage 1 sleep

@@ -337,7 +337,7 @@
 335,1,Wake
 336,1,Wake
 337,1,Wake
-338,,Unscored
+338,0,Unscored
 339,2,Stage 1 sleep
 340,2,Stage 1 sleep
 341,2,Stage 1 sleep
@@ -987,7 +987,7 @@
 985,2,Stage 2 sleep
 986,2,Stage 2 sleep
 987,2,Stage 2 sleep
-988,,Unscored
+988,0,Unscored
 989,2,Stage 2 sleep
 990,2,Stage 2 sleep
 991,2,Stage 2 sleep
