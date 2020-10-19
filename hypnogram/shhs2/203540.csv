@@ -77,7 +77,7 @@
 75,2,Stage 2 sleep
 76,2,Stage 2 sleep
 77,2,Stage 2 sleep
-78,0,Unscored
+78,1,Unscored
 79,1,Wake
 80,2,Stage 1 sleep
 81,2,Stage 1 sleep
@@ -211,7 +211,7 @@
 209,2,Stage 2 sleep
 210,2,Stage 2 sleep
 211,2,Stage 2 sleep
-212,0,Unscored
+212,1,Unscored
 213,2,Stage 2 sleep
 214,1,Wake
 215,1,Wake

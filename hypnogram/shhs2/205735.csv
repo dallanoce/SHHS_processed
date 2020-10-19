@@ -145,7 +145,7 @@
 143,3,Stage 3 sleep
 144,3,Stage 4 sleep
 145,3,Stage 3 sleep
-146,0,Unscored
+146,1,Unscored
 147,1,Wake
 148,1,Wake
 149,1,Wake
@@ -404,7 +404,7 @@
 402,1,Wake
 403,2,Stage 1 sleep
 404,2,Stage 2 sleep
-405,0,Unscored
+405,1,Unscored
 406,2,Stage 2 sleep
 407,2,Stage 2 sleep
 408,2,Stage 2 sleep
@@ -638,7 +638,7 @@
 636,2,Stage 2 sleep
 637,2,Stage 2 sleep
 638,2,Stage 2 sleep
-639,0,Unscored
+639,1,Unscored
 640,2,Stage 2 sleep
 641,2,Stage 2 sleep
 642,2,Stage 2 sleep

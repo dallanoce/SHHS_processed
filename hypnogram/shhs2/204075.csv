@@ -757,7 +757,7 @@
 755,4,REM sleep
 756,4,REM sleep
 757,4,REM sleep
-758,0,Unscored
+758,1,Unscored
 759,4,REM sleep
 760,1,Wake
 761,4,REM sleep

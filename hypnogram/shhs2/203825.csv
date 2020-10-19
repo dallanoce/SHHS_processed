@@ -703,7 +703,7 @@
 701,4,REM sleep
 702,4,REM sleep
 703,2,Stage 2 sleep
-704,0,Unscored
+704,1,Unscored
 705,2,Stage 2 sleep
 706,2,Stage 2 sleep
 707,2,Stage 2 sleep

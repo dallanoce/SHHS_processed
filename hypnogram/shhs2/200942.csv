@@ -291,7 +291,7 @@
 289,2,Stage 2 sleep
 290,2,Stage 2 sleep
 291,2,Stage 2 sleep
-292,0,Unscored
+292,1,Unscored
 293,2,Stage 2 sleep
 294,2,Stage 2 sleep
 295,2,Stage 2 sleep
@@ -583,7 +583,7 @@
 581,4,REM sleep
 582,4,REM sleep
 583,4,REM sleep
-584,0,Unscored
+584,1,Unscored
 585,4,REM sleep
 586,4,REM sleep
 587,4,REM sleep

@@ -927,7 +927,7 @@
 925,4,REM sleep
 926,4,REM sleep
 927,2,Stage 1 sleep
-928,0,Unscored
+928,1,Unscored
 929,4,REM sleep
 930,4,REM sleep
 931,4,REM sleep
@@ -957,7 +957,7 @@
 955,4,REM sleep
 956,4,REM sleep
 957,4,REM sleep
-958,0,Unscored
+958,1,Unscored
 959,4,REM sleep
 960,1,Wake
 961,1,Wake
